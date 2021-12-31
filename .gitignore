@@ -64,5 +64,5 @@ crashlytics-build.properties
 /.idea
 
 # UniRx as Plugin
-/[Aa]ssets/[Pp]lugins/UniRx/
-/[Aa]ssets/[Pp]lugins/UniRx.meta
+#/[Aa]ssets/[Pp]lugins/UniRx/
+#/[Aa]ssets/[Pp]lugins/UniRx.meta
